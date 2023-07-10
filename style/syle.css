@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.sec-1-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  
+    background: rgba(229, 84, 115, 0.10);
+    margin-left: 20px;
+}
+.img-banner{
+   
+
+}
+h1{
+   
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+  
+    font: weight 600px;
+  
+}
+.p-tag{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 13px;
+
+font-weight: 400;
+line-height: 30px;
+}
+.btn-primary{
+    
+     border-radius: 8px;
+     background: #E55473;
+    padding: 15px;
+     
+
+}
+.btn-text{
+    color:white ;
+}
+.btn-primary:hover{
+    background-color: rgb(44, 40, 33);
+    cursor: pointer;
+}
